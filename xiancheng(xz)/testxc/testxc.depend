@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1524496144 source:/home/meng/dobot/xiancheng/command.cpp
+	<stdio.h>
+	<string.h>
+	"command.h"
+	"Protocol.h"
+	"ProtocolID.h"
+
+1524495559 /home/meng/dobot/xiancheng/command.h
+	<stdint.h>
+
+1524129606 /home/meng/dobot/xiancheng/Protocol.h
+	"Message.h"
+
+1523596028 /home/meng/dobot/xiancheng/Message.h
+	"ProtocolDef.h"
+
+1523596028 /home/meng/dobot/xiancheng/ProtocolDef.h
+	"RingBuffer.h"
+
+1523596028 /home/meng/dobot/xiancheng/RingBuffer.h
+	<stdint.h>
+	<stdbool.h>
+
+1523596028 /home/meng/dobot/xiancheng/ProtocolID.h
+
+1523596028 source:/home/meng/dobot/xiancheng/Message.cpp
+	<stdio.h>
+	"Message.h"
+	"Packet.h"
+	<string.h>
+
+1523596028 /home/meng/dobot/xiancheng/Packet.h
+	"ProtocolDef.h"
+
+1523596028 source:/home/meng/dobot/xiancheng/Packet.cpp
+	"Packet.h"
+	<stdio.h>
+
+1524140552 source:/home/meng/dobot/xiancheng/Protocol.cpp
+	"Protocol.h"
+	<stdio.h>
+	<string.h>
+	"command.h"
+
+1524386918 source:/home/meng/dobot/xiancheng/RingBuffer.cpp
+	"RingBuffer.h"
+	<string.h>
+	<stdio.h>
+
+1524496100 source:/home/meng/dobot/xiancheng/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	<pthread.h>
+	"command.h"
+	"Protocol.h"
+	"RingBuffer.h"
+
+1524496144 source:/home/meng/dobot/xiancheng (xx)/command.cpp
+	<stdio.h>
+	<string.h>
+	"command.h"
+	"Protocol.h"
+	"ProtocolID.h"
+
+1524495559 /home/meng/dobot/xiancheng (xx)/command.h
+	<stdint.h>
+
+1524129606 /home/meng/dobot/xiancheng (xx)/Protocol.h
+	"Message.h"
+
+1523596028 /home/meng/dobot/xiancheng (xx)/Message.h
+	"ProtocolDef.h"
+
+1523596028 /home/meng/dobot/xiancheng (xx)/ProtocolDef.h
+	"RingBuffer.h"
+
+1523596028 /home/meng/dobot/xiancheng (xx)/RingBuffer.h
+	<stdint.h>
+	<stdbool.h>
+
+1523596028 /home/meng/dobot/xiancheng (xx)/ProtocolID.h
+
+1523596028 source:/home/meng/dobot/xiancheng (xx)/Message.cpp
+	<stdio.h>
+	"Message.h"
+	"Packet.h"
+	<string.h>
+
+1523596028 /home/meng/dobot/xiancheng (xx)/Packet.h
+	"ProtocolDef.h"
+
+1523596028 source:/home/meng/dobot/xiancheng (xx)/Packet.cpp
+	"Packet.h"
+	<stdio.h>
+
+1524140552 source:/home/meng/dobot/xiancheng (xx)/Protocol.cpp
+	"Protocol.h"
+	<stdio.h>
+	<string.h>
+	"command.h"
+
+1524386918 source:/home/meng/dobot/xiancheng (xx)/RingBuffer.cpp
+	"RingBuffer.h"
+	<string.h>
+	<stdio.h>
+
+1524721177 source:/home/meng/dobot/xiancheng (xx)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	<pthread.h>
+	"command.h"
+	"Protocol.h"
+	"RingBuffer.h"
+
+1524496144 source:/home/meng/dobot/xiancheng (xz)/command.cpp
+	<stdio.h>
+	<string.h>
+	"command.h"
+	"Protocol.h"
+	"ProtocolID.h"
+
+1524495559 /home/meng/dobot/xiancheng (xz)/command.h
+	<stdint.h>
+
+1524129606 /home/meng/dobot/xiancheng (xz)/Protocol.h
+	"Message.h"
+
+1523596028 /home/meng/dobot/xiancheng (xz)/Message.h
+	"ProtocolDef.h"
+
+1523596028 /home/meng/dobot/xiancheng (xz)/ProtocolDef.h
+	"RingBuffer.h"
+
+1523596028 /home/meng/dobot/xiancheng (xz)/RingBuffer.h
+	<stdint.h>
+	<stdbool.h>
+
+1523596028 /home/meng/dobot/xiancheng (xz)/ProtocolID.h
+
+1524756995 source:/home/meng/dobot/xiancheng (xz)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	<pthread.h>
+	"command.h"
+	"Protocol.h"
+	"RingBuffer.h"
+
+1523596028 source:/home/meng/dobot/xiancheng (xz)/Message.cpp
+	<stdio.h>
+	"Message.h"
+	"Packet.h"
+	<string.h>
+
+1523596028 /home/meng/dobot/xiancheng (xz)/Packet.h
+	"ProtocolDef.h"
+
+1523596028 source:/home/meng/dobot/xiancheng (xz)/Packet.cpp
+	"Packet.h"
+	<stdio.h>
+
+1524140552 source:/home/meng/dobot/xiancheng (xz)/Protocol.cpp
+	"Protocol.h"
+	<stdio.h>
+	<string.h>
+	"command.h"
+
+1524386918 source:/home/meng/dobot/xiancheng (xz)/RingBuffer.cpp
+	"RingBuffer.h"
+	<string.h>
+	<stdio.h>
+
